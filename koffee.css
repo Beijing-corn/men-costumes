@@ -1,0 +1,80 @@
+.navbar{
+    color: burlywood;
+    background-color: brown ;
+}
+.a{
+    color: brown;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+ }
+ body{
+    background-color: burlywood;
+ }
+ .story{
+   color: brown;
+   display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: justify;
+ }
+ .sto{
+   width: 300px;
+ }
+ .beans{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ 
+ }
+.stuff{
+   display: flex;
+   flex-direction: row;
+   gap: 100px;
+}
+.nice{
+  height:400px;
+  width: 100%;
+  background-image: url(https://www.foodandwine.com/thmb/4BTeK0i1kJNS1xwvwklWdbWMMck=/735x0/how-to-store-coffee-beans-FT-BLOG0121-99af87cb1f104993b234e1522746e82c.jpg);
+  background-size: cover;
+  color: rgb(187, 28, 28);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.wh{
+  display: flex;
+  justify-content: center;
+
+
+}
+.idk{
+padding:50px;
+border-radius: 6rem;
+display: flex;
+
+}
+p{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+footer{
+  background-image: url(https://www.foodandwine.com/thmb/4BTeK0i1kJNS1xwvwklWdbWMMck=/735x0/how-to-store-coffee-beans-FT-BLOG0121-99af87cb1f104993b234e1522746e82c.jpg);
+  height: 150px;
+  background-size: cover;
+  color: rgb(0, 0, 0);
+
+}
+input{
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 6rem ;
+text-align: center;
+width: 300px;
+}
